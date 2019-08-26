@@ -1,0 +1,6 @@
+{
+  "client_id": "980763779092-s4df71qivib8lfnofpgepoh2oie8gadt.apps.googleusercontent.com",
+  "client_secret": "xuh0WP-Z4_JlYPDtBfUzLJS_"
+}
+
+session = GoogleDrive::Session.from_config("config.json")
